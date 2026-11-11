@@ -1,0 +1,1 @@
+The five animal photographs in `demo/images/` are supplied examples. `example-flow.png` is a ground-truth reference chart, not actual model predictions. Run `python -m dog_identity.visual_demo` to produce `demo/output/pipeline-results.png` and `results.json`. Confirm photo redistribution rights before making the repo public.
