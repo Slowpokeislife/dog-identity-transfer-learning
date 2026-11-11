@@ -95,7 +95,6 @@ Educational inspiration: [TorchVision models](https://pytorch.org/vision/stable/
 
 The supplied example images are in `demo/images/`: `bo_23.jpg` (Bo), `132.jpg` and `happy_dog.jpg` (other dogs), `brown_bear.jpg` (bear), and `sleepy_cat.jpg` (cat). **Check image reuse rights before publishing these photos.**
 
-![Expected-label explanation; not a prediction](demo/example-flow.png)
 
 Run the pretrained ImageNet VGG16 detector and, **if a compatible trained checkpoint is available**, the downstream Bo classifier:
 
